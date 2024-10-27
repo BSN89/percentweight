@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+.info{
+  border-radius: 5px;
+  border: solid black 2px;
+  padding: 15px; /* Добавляем отступы */
+  background-color: #f0f0f0; /* Добавляем цвет фона */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Добавляем тень */
+  max-width: 300px; /* Ограничиваем максимальную ширину */
+  margin: 0 auto; /* Центрируем блок */
+
+}
